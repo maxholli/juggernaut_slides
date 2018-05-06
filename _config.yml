@@ -6,7 +6,7 @@ headers:
   subtitle:  The HTML Presentation Framework
   author:    Hakim El Hattab
   generator: GitHub Pages w/ Jekyll
-  theme:     black
+  theme:     white
 
 
 collections:
